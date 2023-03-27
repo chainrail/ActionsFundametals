@@ -67,3 +67,4 @@ For this workshop you need the following:
 
 - Testing the workflow for task 01
 - Testing to skip CI
+- Testing merge request ci
